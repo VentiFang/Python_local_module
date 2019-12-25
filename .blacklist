@@ -1,0 +1,27 @@
+# PyCharm failed to generate skeletons for these modules.
+# These skeletons will be re-generated automatically
+# when a newer module version or an updated generator becomes available.
+F:\Python\Python36\lib\site-packages\win32\bits.cp36-win_amd64.pyd = 1.147 1561116903000
+F:\Python\Python36\lib\site-packages\win32\_shell.cp36-win_amd64.pyd = 1.147 1561116904000
+F:\Python\Python36\lib\site-packages\win32\_propsys.cp36-win_amd64.pyd = 1.147 1561116904000
+F:\Python\Python36\lib\site-packages\win32\_internet.cp36-win_amd64.pyd = 1.147 1561116904000
+F:\Python\Python36\lib\site-packages\win32\ifilter.cp36-win_amd64.pyd = 1.147 1561116903000
+F:\Python\Python36\lib\site-packages\win32\_mapi.cp36-win_amd64.pyd = 1.147 1561116904000
+F:\Python\Python36\lib\site-packages\lxml\builder.cp36-win_amd64.pyd = 1.147 1566630057000
+F:\Python\Python36\lib\site-packages\win32\_directsound.cp36-win_amd64.pyd = 1.147 1561116904000
+F:\Python\Python36\lib\site-packages\win32\axcontrol.cp36-win_amd64.pyd = 1.147 1561116903000
+F:\Python\Python36\lib\site-packages\win32comext\axdebug\axdebug.pyd = 1.147 1567096494000
+F:\Python\Python36\lib\site-packages\win32\gui.cp36-win_amd64.pyd = 1.147 1561116898000
+F:\Python\Python36\lib\site-packages\win32\ui.cp36-win_amd64.pyd = 1.147 1561116898000
+F:\Python\Python36\lib\site-packages\win32\_com.cp36-win_amd64.pyd = 1.147 1561116904000
+F:\Python\Python36\lib\site-packages\win32\axdebug.cp36-win_amd64.pyd = 1.147 1561116903000
+F:\Python\Python36\lib\site-packages\win32\exchange.cp36-win_amd64.pyd = 1.147 1561116903000
+F:\Python\Python36\lib\site-packages\win32comext\propsys\propsys.pyd = 1.147 1567096494000
+F:\Python\Python36\lib\site-packages\win32comext\adsi\adsi.pyd = 1.147 1567096494000
+F:\Python\Python36\lib\site-packages\win32\_taskscheduler.cp36-win_amd64.pyd = 1.147 1561116904000
+F:\Python\Python36\lib\site-packages\win32\axscript.cp36-win_amd64.pyd = 1.147 1561116903000
+F:\Python\Python36\lib\site-packages\win32comext\ifilter\ifilter.pyd = 1.147 1567096494000
+F:\Python\Python36\lib\site-packages\win32\ole.cp36-win_amd64.pyd = 1.147 1561116898000
+F:\Python\Python36\lib\site-packages\win32\adsi.cp36-win_amd64.pyd = 1.147 1561116903000
+F:\Python\Python36\lib\site-packages\dlib\dlib.pyd = 1.147 1564991927000
+F:\Python\Python36\lib\site-packages\Pythonwin\dde.pyd = 1.147 1567096493000
